@@ -7,9 +7,7 @@ https://dottutorials.net/creating-soap-web-services-dot-net-core-tutorial/
 
 # Para testar
 
-POST
-
-https://localhost:5001/Service.asmx
+POST para `https://localhost:5001/Service.asmx`
 
 Enviar no Body um XML com:
 
